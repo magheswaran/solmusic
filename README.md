@@ -114,11 +114,5 @@ If you have suggestions, improvements, or ideas – feel free to open an issue.
 
 Let’s build something awesome. 🔥
 
----
-
-```
-
----
-
 Let me know once you’ve added your screenshot or if you want a version with multiple preview images (e.g., mobile + desktop side-by-side).
-```
+
