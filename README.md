@@ -1,10 +1,7 @@
 
-```markdown
 # 🎧 Solmusic – Modern Music Web Template
 
 **Solmusic** is a clean and stylish static website template designed for music artists, bands, DJs, and streaming platforms. Built with pure **HTML5** and **CSS3**, it delivers a smooth, responsive, and visually appealing user experience for showcasing music content and brand identity.
-
----
 
 ## 📸 Live Preview
 
@@ -13,8 +10,6 @@
 </p>
 
 > 💡 Want to see it live? Deploy this site on [Netlify](https://solmusics.netlify.app/) in seconds.
-
----
 
 ## 🚀 Features
 
