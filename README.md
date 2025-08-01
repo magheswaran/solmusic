@@ -1,8 +1,3 @@
-Sure bro! Here’s the **full `README.md` content**, now including the image preview section with everything clean, professional, and GitHub-ready.
-
-> 📌 Just make sure you name your screenshot as `screenshot.png` and place it in the root of your project folder (`solmusic-main/`). If you want to use a different file name or folder, you can easily change the image path.
-
----
 
 ```markdown
 # 🎧 Solmusic – Modern Music Web Template
