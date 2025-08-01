@@ -6,7 +6,7 @@
 ## 📸 Live Preview
 
 <p align="center">
-  <img src="[screenshot.png](https://github.com/magheswaran/solmusic/blob/9e46762a85b886f85f1b6b80901b70ac469c782f/assets/SolMusic-1.png)" width="800" alt="Solmusic Landing Page Preview">
+  <img src="https://github.com/magheswaran/solmusic/blob/9e46762a85b886f85f1b6b80901b70ac469c782f/assets/SolMusic-1.png" width="800" alt="Solmusic Landing Page Preview">
 </p>
 
 > 💡 Want to see it live? Deploy this site on [Netlify](https://solmusics.netlify.app/) in seconds.
@@ -30,20 +30,6 @@ solmusic-main/
 ├── style.css            # Main stylesheet
 ├── screenshot.png       # (Add your preview image here)
 └── assets/              # All static images & icons
-├── 3.1-brain.png
-├── 3.2pointer.png
-├── 3.3-smartphone.png
-├── 4.1.jpg
-├── 4.2.png
-├── 4.3.png
-├── 4.4.png
-├── 5.1.png
-├── 6.1.png
-├── 6.2.png
-├── 6.3.png
-├── 6.4.png
-├── hero-bg.png.webp
-└── logo.png.webp
 
 ````
 
