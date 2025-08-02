@@ -82,7 +82,7 @@ open index.html
 **Magheswaran K**
 [MERN Stack Developer](https://github.com/magheswaran)
 JavaScript | React | Node.js | Express | MongoDB
-Crafting scalable and lightning-fast web solutions 🚀
+Crafting scalable and lightning-fast web solutions🚀
 
 ---
 
